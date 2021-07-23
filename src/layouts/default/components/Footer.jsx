@@ -10,7 +10,7 @@ const Footer = () => {
   };
 
   return (
-    <div className="p-8 text-center">
+    <div className="p-4 text-center">
       <button type="button" onClick={scrollTop}>
         <Image
           className="animate-bounce"
@@ -21,6 +21,7 @@ const Footer = () => {
           alt="go top"
         />
       </button>
+      <footer className="text-gray-300">Christopher Durek © 2021. All Rights Reserved.</footer>
     </div>
   );
 };
