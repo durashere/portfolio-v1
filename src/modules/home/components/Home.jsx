@@ -33,7 +33,7 @@ const Home = () => {
           'opacity-0 animate-fade-in-delay-1': !scrolledDownOnLoad,
         })}
       >
-        Hi, I&apos;m Chris Durek
+        Hi, I&apos;m Krzysztof Durek
       </h1>
       <h2
         className={classNames('text-4xl', {

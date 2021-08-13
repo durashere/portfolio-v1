@@ -13,7 +13,7 @@ const DefaultPage = () => {
   return (
     <>
       <Head>
-        <title>Chris Durek</title>
+        <title>Krzysztof Durek</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <div className="max-w-5xl p-8 mx-auto space-y-32">
