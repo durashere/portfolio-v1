@@ -26,6 +26,15 @@ export const SKILLS = [
 
 export const PORTFOLIO = [
   {
+    heading: 'Cook me pls',
+    description:
+      'A hobby recipe app made for me and my friends',
+    image: 'cookmepls.png',
+    imagePosition: 'top',
+    demo: '',
+    code: 'https://github.com/durashere/cook-me-pls',
+  },
+  {
     heading: 'Buy me pls',
     description:
       'Grocery list application made for me and my girlfriend to create and sync list of products to buy',
