@@ -21,7 +21,7 @@ const Footer = () => {
           alt="go top"
         />
       </button>
-      <footer className="text-gray-300">Christopher Durek © 2021. All Rights Reserved.</footer>
+      <footer className="text-gray-300">Krzysztof Durek © 2021. All Rights Reserved.</footer>
     </div>
   );
 };
