@@ -1,19 +1,18 @@
-<!--- UPDATE ANY OCCURRENCE OF A "CHANGE" -->
 <p align="center">
-  <a href="CHANGE_GITHUB_LINK">
+  <a href="https://github.com/durashere/portfolio-v1">
     <img src="public/1440x900.png" alt="Overview screenshot" >
   </a>
-  <h3 align="center">CHANGE_PROJECT_NAME</h3>
+  <h3 align="center">Portfolio</h3>
 
   <p align="center">
-    CHANGE_PROJECT DESCRIPTION
+    My first
     <br />
     <br />
-    <a href="CHANGE_DEPLOYED_DEMO_LINK">View Demo</a>
+    <a href="https://krzysztofdurek.vercel.app">View Demo</a>
     ·
-    <a href="CHANGE_GITHUB_ISSUES_LINK">Report Bug</a>
+    <a href="https://github.com/durashere/portfolio-v1/issues">Report Bug</a>
     ·
-    <a href="CHANGE_GITHUB_ISSUES_LINK">Request Feature</a>
+    <a href="https://github.com/durashere/portfolio-v1/issues">Request Feature</a>
   </p>
 </p>
 
@@ -21,7 +20,6 @@
 
 * [Next.js](https://nextjs.org)
 * [Tailwind CSS](https://tailwindcss.com)
-* [CHANGE_OTHER](_blank)
 
 ## Getting Started
 
@@ -40,7 +38,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone CHANGE_GITHUB_LINK
+   git clone https://github.com/durashere/portfolio-v1
    ```
 2. Install packages
    ```sh
